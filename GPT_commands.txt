@@ -1,0 +1,14 @@
+Please tell me the Python code to save the two csv files in the following folder as two different dataframe with the same name as each file.
+Folder path: /scratch/hpc133a01/kuwait-Flu/ 
+
+how can I check the contents of each dataframe?
+
+good. Change this code to extract only data whose year is from 2018 to 2019 and save it as a dataframe with a name ending in _filtered.
+
+good. Change this code to draw a line graph to compare INF_A values ​​by week with year from 2018 to 2019.
+
+I want to compare the time series INF_A between two countries, including 'Republic of Korea' and 'Kuwait'.
+
+Good. but I want to compare  'Republic of Korea' and 'Kuwait' between 2018 and 2019 in a same graph. please change the X-axis from 2018 to 2019.
+
+good. Please tell me the code that creates the generated graph as a picture file called 'result.png'.
